@@ -20,3 +20,7 @@ username: superuser
 email: superuser@example.com
 password: testing
 ```
+
+[Oscar settings — django-oscar 3.0 documentation](https://django-oscar.readthedocs.io/en/3.0.0/ref/settings.html#)  
+[Settings project](src/oscar/defaults.py)  
+[Settings sandbox](sandbox/settings.py)
