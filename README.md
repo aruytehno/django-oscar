@@ -18,4 +18,5 @@ sandbox/manage.py runserver
 ```text
 username: superuser
 email: superuser@example.com
-password: testing```
+password: testing
+```
